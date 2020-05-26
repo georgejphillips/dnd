@@ -19,7 +19,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'Advanced React with Webpack Setup',
+      title: 'D&D Tools',
       template: './src/index.html',
     }),
   ],
